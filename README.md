@@ -1,4 +1,4 @@
-# medStatSolutions
+# med-stat-solutions
 
 This repo includes all relavant files (mostly R and Jupyter notebooks) 
 that I submitted as solutions to the homework exercises for the PhD 
